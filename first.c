@@ -3,7 +3,7 @@
 int main(){
     int i=0;
     while(i>1000){
-        printf("hello chutiya");
+        printf("hello vishal");
         i++;
     }
 }
